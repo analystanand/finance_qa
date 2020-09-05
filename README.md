@@ -19,7 +19,7 @@ When Peloton reported third-quarter results, it projected fiscal fourth-quarter 
 
 ## Web UI
 
-![Homepage](static_files/demo_home.jpg)
+![Homepage](./static_files/demo_home.jpg)
 
-![Result](static_files/result.jpg)
+![Result](./static_files/result.jpg)
 
